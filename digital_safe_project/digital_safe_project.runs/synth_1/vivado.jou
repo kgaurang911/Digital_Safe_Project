@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Apr 14 11:05:18 2023
+# Process ID: 34236
+# Current directory: C:/vivado_projects/digital_safe_project/digital_safe_project.runs/synth_1
+# Command line: vivado.exe -log push_to_7seg.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source push_to_7seg.tcl
+# Log file: C:/vivado_projects/digital_safe_project/digital_safe_project.runs/synth_1/push_to_7seg.vds
+# Journal file: C:/vivado_projects/digital_safe_project/digital_safe_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source push_to_7seg.tcl -notrace

@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Fri Apr 14 11:06:48 2023
+| Host         : BEAST running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file push_to_7seg_bus_skew_routed.rpt -pb push_to_7seg_bus_skew_routed.pb -rpx push_to_7seg_bus_skew_routed.rpx
+| Design       : push_to_7seg
+| Device       : 7z020i-clg400
+| Speed File   : -1L  PRODUCTION 1.11 2014-09-11
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
